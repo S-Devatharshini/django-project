@@ -13,6 +13,7 @@ from django.views.generic import DetailView
 #The index function accepts a request and provide the response.
 #once we define the function add a url pattern to the urls.py file.
 
+
 def index(request):
     return HttpResponse("Hello world")
 
