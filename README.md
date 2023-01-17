@@ -82,7 +82,9 @@ The django apllication can run on local machine using the default server which c
         
 Copy paste the link provided by the command prompt in any of the browser.
 
-# Demo
+# Demo Link
+
+[click here to view the demo](https://drive.google.com/file/d/1mlal5y_2HEjWJtuRT4Zf1ewgnKjiVouA/view?usp=sharing)
 
 
 
